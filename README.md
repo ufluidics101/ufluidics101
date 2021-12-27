@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi, Microfluidics Community on Github! 👋😄
 
+We hope you enjoy and find useful our content related to Microfluidics. This account aims to share basic concepts, applications, and accessible resources about Microfluidics in Life Science.
+
+📫 How to reach us: ufluidics_101@protonmail.com
+
+#microfluidics #openscience
 <!--
 **ufluidics101/ufluidics101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
