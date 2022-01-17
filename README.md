@@ -1,14 +1,14 @@
-### Hi👋, Microfluidics Community on GitHub!
+<h1 align="center">Hi 👋, Microfluidics Community on GitHub!</h1>
 
 This account aims to share basic concepts, applications, and accessible resources about Microfluidics in Life Science | Main content: Droplet Microfluidics
 
 We hope you enjoy and find useful our content related to Microfluidics!
 
-🔭 We’re currently working on **Open-Source Tools Repo** (Coming Soon)
+🔭 We’re currently working on **Account Web Page** (Coming Soon)
 
 👯 We’re looking to collaborate on **Educational Projects**
 
-💬 Ask us about **Microfluidics based on Open-Source Hardware**
+💬 Ask us about **Microfluidics and Open-Source Hardware**
 
 😄 Account run by [@biodotpe](https://github.com/biodotpe)
 
